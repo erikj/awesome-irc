@@ -56,7 +56,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 - [relay.js](https://github.com/Fauntleroy/relay.js) - focuses on making IRC less intimidating and easier to use ([demo](http://demo.relayjs.com)) `Web`
 - [Circe](https://github.com/jorgenschaefer/circe) - for use in Emacs, sane defaults `Emacs`
 - [Smuxi](https://smuxi.im) - user-friendly, based on GNOME / GTK+ ([source](https://github.com/meebey/smuxi)) `Linux` `Windows` `macOS`
-- [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, browser-based `Web`
+- [aIRChat](https://github.com/zsck/aIRChat) - beautiful, modernized, iser-based `Web`
 - [KVIrc](http://www.kvirc.net) - free, portable, based on Qt GUI toolkit ([source](https://github.com/kvirc/KVIrc)) `Linux` `macOS` `Windows`
 - [Konversation](https://konversation.kde.org) - user-friendly client built on the KDE Platform ([source](https://github.com/KDE/konversation)) `Linux`
 - [sic](https://tools.suckless.org/sic/) - **s**imple **I**RC **c**lient - a terminal client in less than 250 lines of C. `Linux`
@@ -211,7 +211,7 @@ This is a list of tools, software & other resources related to the Internet Rela
 
 The best ways to use this list are:
 
-- by browing the [contents](#contents)
+- by browsing the [contents](#contents)
 - by using <kbd>command</kbd> + <kbd>F</kbd> to search the contents
 
 This list also uses tags to help when searching the contents:
